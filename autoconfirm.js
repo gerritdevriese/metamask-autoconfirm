@@ -45,7 +45,5 @@ if (confirm('Warning! This will auto approve ALL transactions until the page is 
             }
         }
 
-
-
     }, 1000)
 }
